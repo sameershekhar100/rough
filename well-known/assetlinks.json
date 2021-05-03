@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.example.mypaytm",
-    "sha256_cert_fingerprints":
-    ["EB:E6:E5:A8:4E:ED:14:E7:9B:71:B8:40:A3:61:5D:C1:A2:AF:EB:59:88:0F:62:C6:45:AA:18:E8:9C:31:9C:9F"]
-  }
-}]
